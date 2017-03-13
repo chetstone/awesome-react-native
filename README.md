@@ -602,6 +602,7 @@ Components and native modules. For more search [JS.COACH](https://js.coach/react
 - [react-native-media-capture ★2](https://github.com/remobile/react-native-media-capture) - A media-capture for react-native
 - [react-native-mediaplayer ★8](https://github.com/chriselly/react-native-mediaplayer) - Simple full screen media player for React Native.
 - [react-native-media-meta ★10](https://github.com/mybigday/react-native-media-meta) - Get media file metadata in your React Native app
+- [react-native-palette ★2](https://github.com/chetstone/react-native-palette) - Extract dominant colors from an image.
 - [react-native-photos-framework ★31](https://github.com/olofd/react-native-photos-framework) - A modern and comprehensive CameraRoll/iCloud-library for React Native
 - [react-native-player ★62](https://github.com/xeodou/react-native-player) - Media player for react-native
 - [react-native-screcorder ★165](https://github.com/maxs15/react-native-screcorder) - Capture pictures and record Video with Vine-like tap to record
